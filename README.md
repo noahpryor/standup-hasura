@@ -1,4 +1,4 @@
-# hasura-aws-stack
+# Standupin.nyc hasura
 
 ## Stack
 
@@ -152,7 +152,7 @@ We want to keep 3 environments in the cloud:
 2. Staging
 3. Prod
 
-The CI/CD system will deploy the application to each environment based on the branch on which the code is pushed: 
+The CI/CD system will deploy the application to each environment based on the branch on which the code is pushed:
 
 | _branch_ | _environment_ |
 |----------|---------------|
